@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tortorici:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2da47285-5498-4572-8ef8-4ba43970255f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../tortorici\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HMParwnecVTvq1tPpMWSStwSGP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Users/User/Desktop/Materie Magistrale/WEB SYSTEMS DESIGN AND ARCHITECTURE/tortorici",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\WEB SYSTEMS DESIGN AND ARCHITECTURE\tortorici\src\main\webapp\img\cibo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\WEB SYSTEMS DESIGN AND ARCHITECTURE\tortorici\src\main\webapp\WEB-INF\components\distributore" />
+      <recent name="C:\Users\User\Desktop\WEB SYSTEMS DESIGN AND ARCHITECTURE\tortorici\src\main\webapp\WEB-INF\view\distributore" />
+      <recent name="C:\Users\User\Desktop\WEB SYSTEMS DESIGN AND ARCHITECTURE\tortorici\src\main\webapp\WEB-INF\view\cliente" />
+      <recent name="C:\Users\User\Desktop\WEB SYSTEMS DESIGN AND ARCHITECTURE\tortorici\src\main\webapp\WEB-INF\view" />
+      <recent name="C:\Users\User\Desktop\WEB SYSTEMS DESIGN AND ARCHITECTURE\tortorici\src\main\webapp\img\distributore" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="openRunningConfigInTab" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/tortorici_war_exploded" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="tortorici:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tortorici_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="a9d1fbc6-a0f4-471e-9d18-2459e13d0c77" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50849" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2da47285-5498-4572-8ef8-4ba43970255f" name="Changes" comment="" />
+      <created>1668092053153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668092053153</updated>
+      <workItem from="1668092054715" duration="1000" />
+      <workItem from="1668092175068" duration="697000" />
+      <workItem from="1668092932909" duration="2563000" />
+      <workItem from="1668171002880" duration="1055000" />
+      <workItem from="1668181824757" duration="1883000" />
+      <workItem from="1668248907003" duration="421000" />
+      <workItem from="1668249380612" duration="13399000" />
+      <workItem from="1668432598038" duration="28971000" />
+      <workItem from="1668587081894" duration="929000" />
+      <workItem from="1668596686815" duration="1603000" />
+      <workItem from="1668719308992" duration="370000" />
+      <workItem from="1668719728781" duration="633000" />
+      <workItem from="1668756329430" duration="3126000" />
+      <workItem from="1668845525995" duration="12233000" />
+      <workItem from="1668936551011" duration="703000" />
+      <workItem from="1668937553703" duration="6989000" />
+      <workItem from="1669036107396" duration="4862000" />
+      <workItem from="1669045946248" duration="3374000" />
+      <workItem from="1669051214462" duration="20269000" />
+      <workItem from="1669201572072" duration="1429000" />
+      <workItem from="1669205902374" duration="3712000" />
+      <workItem from="1669225639978" duration="5335000" />
+      <workItem from="1669289567501" duration="253000" />
+      <workItem from="1669292974249" duration="10000" />
+      <workItem from="1669293458943" duration="11081000" />
+      <workItem from="1669371733351" duration="5113000" />
+      <workItem from="1669380100201" duration="2873000" />
+      <workItem from="1669413216872" duration="40208000" />
+      <workItem from="1669719162588" duration="4983000" />
+      <workItem from="1669730670169" duration="3691000" />
+      <workItem from="1669738926946" duration="1972000" />
+      <workItem from="1669844780216" duration="627000" />
+      <workItem from="1669907435433" duration="65000" />
+      <workItem from="1669907695068" duration="473000" />
+      <workItem from="1669969279287" duration="50000" />
+      <workItem from="1669979549241" duration="1691000" />
+      <workItem from="1670248200084" duration="3292000" />
+      <workItem from="1670251619073" duration="777000" />
+      <workItem from="1670265345496" duration="1959000" />
+      <workItem from="1670321761131" duration="1249000" />
+      <workItem from="1670324171877" duration="11000" />
+      <workItem from="1670341945671" duration="3472000" />
+      <workItem from="1670363525860" duration="3010000" />
+      <workItem from="1670414060255" duration="276000" />
+      <workItem from="1670514314010" duration="1704000" />
+      <workItem from="1670533598378" duration="1281000" />
+      <workItem from="1670546314487" duration="16396000" />
+      <workItem from="1670858930011" duration="4603000" />
+      <workItem from="1670926229088" duration="650000" />
+      <workItem from="1671023843594" duration="452000" />
+      <workItem from="1671140719446" duration="2258000" />
+      <workItem from="1671187603373" duration="2355000" />
+      <workItem from="1671221384206" duration="1611000" />
+      <workItem from="1671274628535" duration="3103000" />
+      <workItem from="1671537503312" duration="2744000" />
+      <workItem from="1671880625872" duration="5820000" />
+      <workItem from="1672047880286" duration="8451000" />
+      <workItem from="1672128089717" duration="488000" />
+      <workItem from="1672139285401" duration="20794000" />
+      <workItem from="1672176197119" duration="1668000" />
+      <workItem from="1672224365863" duration="7610000" />
+      <workItem from="1672348043912" duration="6244000" />
+      <workItem from="1672448463827" duration="1647000" />
+      <workItem from="1672502303208" duration="15760000" />
+      <workItem from="1672667711910" duration="4601000" />
+      <workItem from="1672682148913" duration="4944000" />
+      <workItem from="1672696162425" duration="1041000" />
+      <workItem from="1672733548792" duration="598000" />
+      <workItem from="1672740374609" duration="4021000" />
+      <workItem from="1672759465077" duration="1379000" />
+      <workItem from="1672778789697" duration="5553000" />
+      <workItem from="1672819502161" duration="11556000" />
+      <workItem from="1672862275889" duration="7273000" />
+      <workItem from="1672905589881" duration="2510000" />
+      <workItem from="1672931531244" duration="13269000" />
+      <workItem from="1673024131840" duration="44451000" />
+      <workItem from="1673295977449" duration="31433000" />
+      <workItem from="1673425222031" duration="7664000" />
+      <workItem from="1673442430339" duration="1293000" />
+      <workItem from="1673449055977" duration="13903000" />
+      <workItem from="1673513860848" duration="17651000" />
+      <workItem from="1673593674802" duration="3902000" />
+      <workItem from="1673610243195" duration="3749000" />
+      <workItem from="1673617531333" duration="409000" />
+      <workItem from="1673619844054" duration="6444000" />
+      <workItem from="1673691438021" duration="17791000" />
+      <workItem from="1673782827747" duration="18588000" />
+      <workItem from="1673880434185" duration="1089000" />
+      <workItem from="1673890353562" duration="2211000" />
+      <workItem from="1673901605833" duration="4058000" />
+      <workItem from="1673945991816" duration="2045000" />
+      <workItem from="1673962111598" duration="3565000" />
+      <workItem from="1673975672424" duration="119000" />
+      <workItem from="1674032404339" duration="6808000" />
+      <workItem from="1674041080839" duration="14000" />
+      <workItem from="1675687185585" duration="641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+body {
+    background-image: linear-gradient(to left, #00c6fb 0%, #005bea 100%);
+}
+
+button {
+    text-transform: uppercase;
+}
+
+#container_grande {
+    max-width: 900px;
+    background-color: white;
+}
+
+#container_principale {
+    max-width: 550px;
+    background-color: white;
+}
+
+#container_saldo {
+    max-width: 400px;
+    height: 200px;
+    background-image: linear-gradient(to bottom, #2c3e50 0%, #3498db 100%);
+}
+
+#container_prodotto {
+    max-width: 300px;
+    max-height: 400px;
+}
+
+#riga_immagine {
+    max-width: 100px;
+}
+
+tr:hover {background-color: skyblue;}

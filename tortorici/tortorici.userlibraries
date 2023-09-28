@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/User/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="mysql.connector.java">
+    <archive path="C:/Users/User/Desktop/WEB SYSTEMS DESIGN AND ARCHITECTURE/tortorici/lib/mysql-connector-java-8.0.30.jar" />
+    <archive path="C:/Users/User/Desktop/WEB SYSTEMS DESIGN AND ARCHITECTURE/tortorici/lib/protobuf-java-3.19.4.jar" />
+  </library>
+  <library name="Maven: com.google.protobuf:protobuf-java:3.19.4">
+    <archive path="C:/Users/User/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar" />
+  </library>
+  <library name="Maven: com.sun.activation:jakarta.activation:2.0.1">
+    <archive path="C:/Users/User/.m2/repository/com/sun/activation/jakarta.activation/2.0.1/jakarta.activation-2.0.1.jar" />
+  </library>
+  <library name="Maven: jakarta.jws:jakarta.jws-api:3.0.0">
+    <archive path="C:/Users/User/.m2/repository/jakarta/jws/jakarta.jws-api/3.0.0/jakarta.jws-api-3.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.mvc:jakarta.mvc-api:2.0.0">
+    <archive path="C:/Users/User/.m2/repository/jakarta/mvc/jakarta.mvc-api/2.0.0/jakarta.mvc-api-2.0.0.jar" />
+  </library>
+  <library name="Maven: jakarta.platform:jakarta.jakartaee-web-api:9.1.0">
+    <archive path="C:/Users/User/.m2/repository/jakarta/platform/jakarta.jakartaee-web-api/9.1.0/jakarta.jakartaee-web-api-9.1.0.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:3.0.1">
+    <archive path="C:/Users/User/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/3.0.1/jakarta.xml.bind-api-3.0.1.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.soap:jakarta.xml.soap-api:2.0.1">
+    <archive path="C:/Users/User/.m2/repository/jakarta/xml/soap/jakarta.xml.soap-api/2.0.1/jakarta.xml.soap-api-2.0.1.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.ws:jakarta.xml.ws-api:3.0.1">
+    <archive path="C:/Users/User/.m2/repository/jakarta/xml/ws/jakarta.xml.ws-api/3.0.1/jakarta.xml.ws-api-3.0.1.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:8.0.30">
+    <archive path="C:/Users/User/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/User/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.8.1">
+    <archive path="C:/Users/User/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.1/junit-jupiter-api-5.8.1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.8.1">
+    <archive path="C:/Users/User/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.1/junit-jupiter-engine-5.8.1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.8.1">
+    <archive path="C:/Users/User/.m2/repository/org/junit/platform/junit-platform-commons/1.8.1/junit-platform-commons-1.8.1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.8.1">
+    <archive path="C:/Users/User/.m2/repository/org/junit/platform/junit-platform-engine/1.8.1/junit-platform-engine-1.8.1.jar" />
+  </library>
+</eclipse-userlibraries>
+

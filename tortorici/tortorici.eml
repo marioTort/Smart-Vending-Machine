@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<testFolder url="file://$MODULE_DIR$/src/test/resources"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<lib name="Maven: jakarta.platform:jakarta.jakartaee-web-api:9.1.0" scope="PROVIDED"/>
+	<lib name="Maven: jakarta.xml.ws:jakarta.xml.ws-api:3.0.1" scope="PROVIDED"/>
+	<lib name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:3.0.1" scope="PROVIDED"/>
+	<lib name="Maven: com.sun.activation:jakarta.activation:2.0.1" scope="PROVIDED"/>
+	<lib name="Maven: jakarta.xml.soap:jakarta.xml.soap-api:2.0.1" scope="PROVIDED"/>
+	<lib name="Maven: jakarta.jws:jakarta.jws-api:3.0.0" scope="PROVIDED"/>
+	<lib name="Maven: org.junit.jupiter:junit-jupiter-api:5.8.1" scope="TEST"/>
+	<lib name="Maven: org.opentest4j:opentest4j:1.2.0" scope="TEST"/>
+	<lib name="Maven: org.junit.platform:junit-platform-commons:1.8.1" scope="TEST"/>
+	<lib name="Maven: org.apiguardian:apiguardian-api:1.1.2" scope="TEST"/>
+	<lib name="Maven: org.junit.jupiter:junit-jupiter-engine:5.8.1" scope="TEST"/>
+	<lib name="Maven: org.junit.platform:junit-platform-engine:1.8.1" scope="TEST"/>
+	<levels>
+		<level name="mysql.connector.java" value="project"/>
+		<level name="Maven: jakarta.platform:jakarta.jakartaee-web-api:9.1.0" value="project"/>
+		<level name="Maven: jakarta.mvc:jakarta.mvc-api:2.0.0" value="project"/>
+		<level name="Maven: jakarta.xml.ws:jakarta.xml.ws-api:3.0.1" value="project"/>
+		<level name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:3.0.1" value="project"/>
+		<level name="Maven: com.sun.activation:jakarta.activation:2.0.1" value="project"/>
+		<level name="Maven: jakarta.xml.soap:jakarta.xml.soap-api:2.0.1" value="project"/>
+		<level name="Maven: jakarta.jws:jakarta.jws-api:3.0.0" value="project"/>
+		<level name="Maven: org.junit.jupiter:junit-jupiter-api:5.8.1" value="project"/>
+		<level name="Maven: org.opentest4j:opentest4j:1.2.0" value="project"/>
+		<level name="Maven: org.junit.platform:junit-platform-commons:1.8.1" value="project"/>
+		<level name="Maven: org.apiguardian:apiguardian-api:1.1.2" value="project"/>
+		<level name="Maven: org.junit.jupiter:junit-jupiter-engine:5.8.1" value="project"/>
+		<level name="Maven: org.junit.platform:junit-platform-engine:1.8.1" value="project"/>
+		<level name="Maven: mysql:mysql-connector-java:8.0.30" value="project"/>
+		<level name="Maven: com.google.protobuf:protobuf-java:3.19.4" value="project"/>
+	</levels>
+</component>
