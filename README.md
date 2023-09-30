@@ -2,6 +2,10 @@
 
 ## 🇬🇧 Introduction
 
+**Subject**: [Web Systems Design and Architecture](https://www.unipa.it/dipartimenti/ingegneria/cds/ingegneriainformatica2035/?template=responsive&pagina=insegnamento&idInsegnamento=171741&idDocente=159929&idCattedra=167739)
+
+**Professor**: [Marco La Cascia](https://www.unipa.it/persone/docenti/l/marco.lacascia)
+
 University project implementing a **web application** for the operation of an automatic vending machine system that can be interacted with online.
 
 This application is a Single-Page-Application (SPA) equipped with a **login** form to allow access for various users and a **registration** form to enable new clients to sign up for the platform.
@@ -17,6 +21,10 @@ On the other hand, a **Distributor** represents the device through which Custome
 For further information, please refer to the [documentation](https://github.com/marioTort/Smart-Vending-Machine/blob/main/Specifiche%20progettuali%20-%20Tortorici.pdf).
 
 ## 🇮🇹 Introduzione
+
+**Materia**: [Web Systems Design and Architecture](https://www.unipa.it/dipartimenti/ingegneria/cds/ingegneriainformatica2035/?template=responsive&pagina=insegnamento&idInsegnamento=171741&idDocente=159929&idCattedra=167739)
+
+**Docente**: [Marco La Cascia](https://www.unipa.it/persone/docenti/l/marco.lacascia)
 
 Progetto universitario che mira ad implementare una **web application** per il funzionamento di un sistema di distributori automatici con cui è possibile interagire online.
 
@@ -45,4 +53,4 @@ Per ulteriori informazione, si faccia riferimento alla [documentazione](https://
 4. È consigliabile testare la web app su Google Chrome, in quanto altri browser potrebbero dare problemi con gli script JS.
 
 
-*Developed by **Mario Tortorici** @ **Università degli Studi di Palermo**, **Web Systems Design and Architecture***
+*Developed by **Mario Tortorici** @ **Università degli Studi di Palermo***
