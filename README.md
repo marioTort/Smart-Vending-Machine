@@ -43,7 +43,7 @@ stabilire un’**associazione** con un Distributore e procedere all’acquisto d
 Per **Distributore**, invece, si intende quell’utente che rappresenta il dispositivo
 attraverso cui i Clienti acquistano i prodotti.
 
-Per ulteriori informazione, si faccia riferimento alla [documentazione](https://github.com/marioTort/Smart-Vending-Machine/blob/main/Specifiche%20progettuali%20-%20Tortorici.pdf).
+Per ulteriori informazioni, si faccia riferimento alla [documentazione](https://github.com/marioTort/Smart-Vending-Machine/blob/main/Specifiche%20progettuali%20-%20Tortorici.pdf).
 
 ## Info
 
