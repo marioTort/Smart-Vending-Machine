@@ -4,7 +4,7 @@
 
 **Subject**: [Web Systems Design and Architecture](https://www.unipa.it/dipartimenti/ingegneria/cds/ingegneriainformatica2035/?template=responsive&pagina=insegnamento&idInsegnamento=171741&idDocente=159929&idCattedra=167739)
 
-**Professor**: [Marco La Cascia](https://www.unipa.it/persone/docenti/l/marco.lacascia)
+**Professor**: [Marco La Cascia](https://www.unipa.it/persone/docenti/l/marco.lacascia/?pagina=curriculum)
 
 University project implementing a **web application** for the operation of an automatic vending machine system that can be interacted with online.
 
@@ -24,7 +24,7 @@ For further information, please refer to the [documentation](https://github.com/
 
 **Materia**: [Web Systems Design and Architecture](https://www.unipa.it/dipartimenti/ingegneria/cds/ingegneriainformatica2035/?template=responsive&pagina=insegnamento&idInsegnamento=171741&idDocente=159929&idCattedra=167739)
 
-**Docente**: [Marco La Cascia](https://www.unipa.it/persone/docenti/l/marco.lacascia)
+**Docente**: [Marco La Cascia](https://www.unipa.it/persone/docenti/l/marco.lacascia/?pagina=curriculum)
 
 Progetto universitario che mira ad implementare una **web application** per il funzionamento di un sistema di distributori automatici con cui è possibile interagire online.
 
