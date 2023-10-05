@@ -1,4 +1,4 @@
-# Smart-Vending-Machine
+# Smart-Vending-Machines
 
 ## 🇬🇧 Introduction
 
